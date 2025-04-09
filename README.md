@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kapil Gangwar</h1>
-<h3 align="center">A passionate Software Engineer and Aspiring Web Developer</h3>
+<h3 align="center">A passionate Software Engineer and Aspiring Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/kapil0226" target="blank"><img src="https://img.shields.io/twitter/follow/kapil0226?logo=twitter&style=for-the-badge" alt="kapil0226" /></a> </p>
 
