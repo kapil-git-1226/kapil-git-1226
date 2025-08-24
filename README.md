@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Enhancing my problem-solving skills**
 
-- 🌱 I’m Passionate about learning **Machine Learning , Development and Data Structures**
+- 🌱 Diving deep into **Machine Learning ,Deep Learning, Generative AI, Development and Data Structures**
 
 - 📫 How to reach me **gangwark057@gmail.com**
 
