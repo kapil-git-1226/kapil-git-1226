@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Kapil+Gangwar;Full+Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Kapil+Gangwar;AI+Full+Stack+Developer+!!;Problem+Solver+%7C+Tech+Enthusiast;Building+Scalable+AI+Systems" alt="Typing SVG" />
 
 <div align="center">
 
