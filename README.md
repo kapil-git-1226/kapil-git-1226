@@ -1,14 +1,10 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Kapil+Gangwar;AI+Full+Stack+Developer+!!;Problem+Solver+%7C+Tech+Enthusiast;Building+Scalable+AI+Systems" alt="Typing SVG" />
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7f6f0e4b-8d23-4e0c-94f7-8f4b57e7f8d3.gif" width="100%" alt="Coding Banner" />
-
-</div>
-
 <br>
 
-
+<p>
+    <h3 align="center">🚀 AI & Web Full-Stack Developer | DSA  | Generative AI  </h3>
+</p>
 
 <br>
 
